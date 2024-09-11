@@ -3,7 +3,7 @@ Hi 👋, I'm Diogo Lima, a Business Consultant transitioning into Data Science f
 
 🎓 I have extensive experience in business management across industrial automation sectors.
 
-🌱 I'm currently learning more about advanced decision science techniques and predictive analytics
+🌱 I’m currently diving deep into data science, applying my analytical skills to solve complex problems and create data-driven insights. 
 
 👀 I'm interested in combining business strategy with AI and machine learning to drive data-driven decisions
 
