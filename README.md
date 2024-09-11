@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Diogo Lima, a Business Strategist transitioning into Data Science from Brazil.
+Hi 👋, I'm Diogo Lima, a Business Consultant transitioning into Data Science from Brazil.
 
 🎓 I have extensive experience in business management across industrial automation sectors.
 
